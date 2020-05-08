@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Generate randomized strings of characters using a template"
+name = "stringgenerator"
+optional = false
+python-versions = "*"
+version = "0.3.3"
+
+[metadata]
+content-hash = "dc0963955a8175e0b0af536fd9fed5cb21baccf96a54d0b4ce37011e6eaf2f0e"
+python-versions = "^3.7"
+
+[metadata.hashes]
+stringgenerator = ["87e653724e0a8f41f8481fa724630c1906adc348b2d62b7fe114f9ecc88c00a4"]
